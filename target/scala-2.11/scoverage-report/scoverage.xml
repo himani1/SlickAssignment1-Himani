@@ -1,0 +1,957 @@
+<scoverage 
+statement-count="263" statements-invoked="222" statement-rate="84.41" branch-rate="100.00" version="1.0" timestamp="1457417472969">
+    <packages>
+        <package name="com.knoldus.postgres.connection" statement-count="7" statements-invoked="0" statement-rate="0.00">
+            <classes>
+                <class 
+                name="PostgresDBComponent" filename="com/knoldus/postgres/connection/PostgresDBComponent.scala" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.connection/PostgresDBComponent/&lt;none&gt;" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="PostgresDBComponent" class-type="Trait" top-level-class="PostgresDBComponent" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="182" end="207" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="PostgresDBComponent" class-type="Trait" top-level-class="PostgresDBComponent" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="122" end="136" line="8" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="MyPostgres" filename="com/knoldus/postgres/connection/PostgresDBComponent.scala" statement-count="5" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.connection/MyPostgres/&lt;none&gt;" statement-count="5" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="MyPostgres" class-type="Object" top-level-class="MyPostgres" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="309" end="309" line="20" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="MyPostgres" class-type="Object" top-level-class="MyPostgres" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="309" end="309" line="20" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="MyPostgres" class-type="Object" top-level-class="MyPostgres" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="300" end="332" line="20" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="MyPostgres" class-type="Object" top-level-class="MyPostgres" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="319" end="331" line="20" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.connection" class="MyPostgres" class-type="Object" top-level-class="MyPostgres" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/connection/PostgresDBComponent.scala" method="&lt;none&gt;" start="309" end="309" line="20" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+        <package name="com.knoldus.postgres.repository" statement-count="256" statements-invoked="222" statement-rate="86.72">
+            <classes>
+                <class 
+                name="StudentTable" filename="com/knoldus/postgres/repository/StudentRepo.scala" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentTable/&lt;none&gt;" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="436" end="443" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="421" end="470" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="516" end="525" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="503" end="515" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="485" end="526" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="435" end="435" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="444" end="469" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="497" end="502" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="&lt;none&gt;" start="496" end="496" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentTable/*" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="551" end="551" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="540" end="545" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="551" end="551" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="539" end="587" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="555" end="569" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="551" end="551" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="551" end="551" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="539" end="550" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="551" end="551" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="539" end="587" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="546" end="549" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="571" end="586" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="*" start="551" end="551" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="StudentCrud" filename="com/knoldus/postgres/repository/StudentRepo.scala" statement-count="37" statements-invoked="37" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentCrud/deleteStud" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="907" end="907" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="903" end="903" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="877" end="910" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="896" end="896" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="899" end="899" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="868" end="919" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="903" end="903" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="897" end="909" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="877" end="917" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="897" end="902" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="deleteStud" start="907" end="909" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentCrud/getAll" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="getAll" start="1105" end="1105" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="getAll" start="1090" end="1118" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="getAll" start="1090" end="1111" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="getAll" start="1105" end="1105" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="getAll" start="1081" end="1119" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentCrud/insert" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="800" end="800" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="811" end="811" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="752" end="826" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="801" end="806" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="784" end="807" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="761" end="824" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="811" end="824" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="761" end="773" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="insert" start="800" end="800" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentCrud/updateStud" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1001" end="1006" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1021" end="1037" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1010" end="1012" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1001" end="1012" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1007" end="1007" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="981" end="1013" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1010" end="1010" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="972" end="1040" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="981" end="1038" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1007" end="1007" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1000" end="1000" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentRepo.scala" method="updateStud" start="1003" end="1003" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="SubjectCrud" filename="com/knoldus/postgres/repository/SubjectRepo.scala" statement-count="37" statements-invoked="37" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.repository/SubjectCrud/getAll" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="getAll" start="1104" end="1132" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="getAll" start="1119" end="1119" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="getAll" start="1104" end="1125" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="getAll" start="1095" end="1133" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="getAll" start="1119" end="1119" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/SubjectCrud/updateSub" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1012" end="1012" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1013" end="1026" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1035" end="1051" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1013" end="1020" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1024" end="1026" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1024" end="1024" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="984" end="1054" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1021" end="1021" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="993" end="1027" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="993" end="1052" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1015" end="1015" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="updateSub" start="1021" end="1021" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/SubjectCrud/deleteSub" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="888" end="930" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="908" end="915" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="888" end="923" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="920" end="920" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="916" end="916" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="916" end="916" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="907" end="907" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="910" end="910" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="879" end="932" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="920" end="922" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="deleteSub" start="908" end="922" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/SubjectCrud/insert" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="771" end="783" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="762" end="838" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="810" end="810" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="823" end="823" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="771" end="836" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="811" end="818" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="794" end="819" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="810" end="810" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="insert" start="823" end="836" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="StudentSubjectCrud" filename="com/knoldus/postgres/repository/StudentSubjectRepo.scala" statement-count="97" statements-invoked="85" statement-rate="87.63" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubjectCrud/updateStudSub" statement-count="12" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1190" end="1190" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1161" end="1197" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1152" end="1229" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1193" end="1193" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1186" end="1186" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1161" end="1227" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1190" end="1190" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1183" end="1183" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1184" end="1196" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1205" end="1226" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1184" end="1189" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="updateStudSub" start="1193" end="1196" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubjectCrud/getAllSubjects" statement-count="35" statements-invoked="35" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1368" end="1368" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1415" end="1415" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1457" end="1482" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1438" end="1438" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1506" end="1517" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1320" end="1518" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1364" end="1364" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1388" end="1388" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1377" end="1518" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1339" end="1339" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1465" end="1465" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1438" end="1438" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1523" end="1554" line="47" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1438" end="1438" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1360" end="1360" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1418" end="1429" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1470" end="1470" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1364" end="1364" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1407" end="1429" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1495" end="1505" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1415" end="1415" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1441" end="1441" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1368" end="1371" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1435" end="1518" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1530" end="1553" line="47" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1457" end="1470" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1494" end="1518" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1355" end="1371" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1412" end="1412" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1470" end="1470" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1438" end="1438" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1355" end="1363" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1473" end="1482" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1407" end="1415" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllSubjects" start="1438" end="1438" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubjectCrud/insert" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="insert" start="958" end="998" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="insert" start="977" end="998" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="insert" start="958" end="973" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="insert" start="949" end="1000" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubjectCrud/deleteSub" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1072" end="1072" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1042" end="1097" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1075" end="1075" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1081" end="1081" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1085" end="1087" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1073" end="1087" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1050" end="1095" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1073" end="1080" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1050" end="1088" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1085" end="1085" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="deleteSub" start="1081" end="1081" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubjectCrud/getAllStudents" statement-count="35" statements-invoked="35" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1776" end="1858" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1702" end="1707" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1753" end="1753" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1783" end="1783" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1834" end="1858" line="58" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1688" end="1707" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1799" end="1810" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1725" end="1725" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1846" end="1857" line="58" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1698" end="1698" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1653" end="1858" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1744" end="1753" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1813" end="1821" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1780" end="1780" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1753" end="1753" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1702" end="1702" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1780" end="1780" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1799" end="1821" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1810" end="1810" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1756" end="1769" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1780" end="1780" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1698" end="1698" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1744" end="1769" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1835" end="1845" line="58" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1714" end="1858" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1807" end="1807" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1672" end="1672" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1780" end="1780" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1864" end="1895" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1692" end="1692" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1871" end="1894" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1748" end="1748" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1810" end="1810" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1688" end="1697" line="55" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubjectCrud" class-type="Trait" top-level-class="StudentSubjectCrud" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="getAllStudents" start="1780" end="1780" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="SubjectTable" filename="com/knoldus/postgres/repository/SubjectRepo.scala" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.repository/SubjectTable/&lt;none&gt;" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="504" end="511" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="525" end="534" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="439" end="448" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="424" end="475" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="438" end="438" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="512" end="524" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="492" end="535" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="503" end="503" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="&lt;none&gt;" start="449" end="474" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/SubjectTable/*" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="584" end="599" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="548" end="600" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="564" end="564" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="564" end="564" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="549" end="556" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="568" end="582" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="564" end="564" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="548" end="563" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="564" end="564" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="564" end="564" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="564" end="564" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="557" end="562" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/SubjectRepo.scala" method="*" start="548" end="600" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="StudentSubTable" filename="com/knoldus/postgres/repository/StudentSubjectRepo.scala" statement-count="41" statements-invoked="19" statement-rate="46.34" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubTable/&lt;none&gt;" statement-count="6" statements-invoked="6" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="&lt;none&gt;" start="483" end="483" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="&lt;none&gt;" start="518" end="518" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="&lt;none&gt;" start="484" end="489" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="&lt;none&gt;" start="519" end="526" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="&lt;none&gt;" start="472" end="490" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="&lt;none&gt;" start="507" end="527" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubTable/student" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="547" end="600" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="557" end="557" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="593" end="593" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="575" end="578" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="593" end="593" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="558" end="573" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="594" end="599" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="593" end="593" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="557" end="557" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="593" end="593" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="student" start="580" end="592" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubTable/subject" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="667" end="667" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="654" end="666" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="630" end="630" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="667" end="667" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="648" end="653" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="620" end="676" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="630" end="630" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="668" end="675" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="667" end="667" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="631" end="646" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="subject" start="667" end="667" line="21" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgres.repository/StudentSubTable/*" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="703" end="703" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="691" end="694" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="703" end="703" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="706" end="723" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="690" end="744" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="703" end="703" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="703" end="703" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="703" end="703" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="690" end="702" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="696" end="701" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="690" end="744" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="725" end="743" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgres.repository" class="StudentSubTable" class-type="Class" top-level-class="StudentSubjectRepo" source="/home/himani/Desktop/Assignments/SlickAssignment1/src/main/scala-2.11/com/knoldus/postgres/repository/StudentSubjectRepo.scala" method="*" start="703" end="703" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mStudentSubjectRepoTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Insert a relation[0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete existing relation[0m[0m
+[0m[[0minfo[0m] [0m[32m- get all subjects taken by a student[0m[0m
+[0m[[0minfo[0m] [0m[32m- invalid student id to get subjects[0m[0m
+[0m[[0minfo[0m] [0m[32m- get all students that have a given subject[0m[0m
+[0m[[0minfo[0m] [0m[32m- get all students for invalid subject id[0m[0m

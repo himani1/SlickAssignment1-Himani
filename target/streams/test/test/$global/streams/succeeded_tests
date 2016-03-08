@@ -1,0 +1,5 @@
+#Successful Tests
+#Tue Mar 08 11:46:21 IST 2016
+com.knoldus.postgres.repository.StudentRepositoryTest=1457417780145
+com.knoldus.postgres.repository.StudentSubjectRepoTest=1457417781226
+com.knoldus.postgres.repository.SubjectRepoTest=1457417780145

@@ -1,0 +1,15 @@
+package com.knoldus.postgres.repository
+
+import org.scalatest.concurrent.ScalaFutures
+import com.knoldus.postgres.connection.H2DBComponent
+import org.scalatest.FunSuite
+import org.scalatest.time.Seconds
+import org.scalatest.time.Millis
+import org.scalatest.time.Span
+
+trait StudentSubjectRepoTest extends FunSuite with StudentCrud  with H2DBComponent with ScalaFutures {
+
+  implicit val defaultPatience = PatienceConfig(timeout = Span(5, Seconds), interval = Span(500, Millis))
+
+
+}
